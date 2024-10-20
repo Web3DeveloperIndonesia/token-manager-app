@@ -1,17 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Token Manager App
+
+This is open source projects open for public to contribute
+
+## Plugins Installed
+
+- [TailwindCSS (CSS Framework)](https://tailwindcss.com/)
+- [Shadcn UI (Component)](https://ui.shadcn.com/)
+- [PhosporIcons (Icons)](https://phosphoricons.com/)
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+# Install dependencies
+npm install
+
+# Running development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
