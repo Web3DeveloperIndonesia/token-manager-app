@@ -9,20 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ionic/react": "^8.4.0",
     "@phosphor-icons/react": "^2.1.7",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "ionicons": "^7.4.0",
     "lucide-react": "^0.453.0",
-    "next": "14.2.15",
-    "react": "^18",
-    "react-dom": "^18",
+    "next": "^15.0.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "tailwind-merge": "^2.5.4",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.136.0",
+    "vanta": "^0.5.24",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/three": "^0.169.0",
     "eslint": "^8",
     "eslint-config-next": "14.2.15",
     "postcss": "^8",
